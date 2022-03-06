@@ -1,0 +1,1 @@
+export CHILD_PATH="/home/dima/Documents/child"
